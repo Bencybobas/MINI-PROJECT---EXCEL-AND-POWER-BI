@@ -93,6 +93,8 @@ Drill-down capability for deeper analysis
 
 🛠️ Tools & Technologies Used
 
+MS Excel - Used for cleaning the dataset
+
 Power BI Desktop – Data visualization and dashboard creation
 
 DAX (Data Analysis Expressions) – Calculations and measures
