@@ -1,9 +1,15 @@
 # MINI-PROJECT---EXCEL-AND-POWER-BI -IFC Advisory Services Projects (May 2009- Feb 2026)
+
 Project Objective -The mini project aims to perform real-world data analysis using Excel for data cleaning and transformation, and Power BI for data visualization and report building. 
+
 Data set source- WORLD BANK GROUP-Data catalog- DATA- https://1drv.ms/x/c/ca5ce81971c39fd9/IQAmHxQ3YYf_RbN7LBtL-nGvAZ_GgJuRtE3NMTwZgXUyO58?e=TzOumi - IFC Advisory Services Projects
+
 Private sector development requires more than just finance. Experience shows the powerful role advisory services can play in unlocking investment and helping businesses expand and create jobs.
+
 The cleaned dataset in MS Excel and Analysis file in powerbi is uploaded. 
+
 IFC Advisory Projects Analysis Dashboard
+
 📌 Project Overview
 This project presents an interactive Power BI dashboard analyzing IFC (International Finance Corporation) advisory projects across multiple countries, regions, and business lines.
 The dashboard provides insights into investment trends, project distribution, and performance metrics from 2009 to 2026.
